@@ -14159,11 +14159,12 @@ a.link-on-bg:hover {
 
   #logo {
     display: inline-block;
+    width: 100px;
   }
 
   .hero-section .figure-holder {
     padding-bottom: 400px;
-    background-position: center 360px;
+    background-position: center 400px;
     background-size: 300px auto
   }
 }
@@ -14179,13 +14180,18 @@ a.link-on-bg:hover {
     font-size: 1.0rem
   }
 
+  #logo {
+    display: inline-block;
+    width: 85px;
+  }
+
   .hero-section {
     text-align: center
   }
 
   .hero-section .figure-holder {
     padding-bottom: 400px;
-    background-position: center 335px;
+    background-position: center 400px;
     background-size: 300px auto
   }
 
